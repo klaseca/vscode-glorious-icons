@@ -1,0 +1,21 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <rect y="4.7473" width="16" height="6.5055" rx=".52747" fill="#fcb32c" />
+  <path
+    d="m1.8462 9.8168v-2.9304l1.6117 1.6117 1.641-1.641v2.9304"
+    fill="none"
+    stroke="#000"
+    stroke-width=".7033"
+  />
+  <path d="m8.1758 9.348v-3.4286" stroke="#000" stroke-width=".7033" />
+  <path
+    d="m6.5934 7.8535 1.5824 1.5824 1.5824-1.5824"
+    fill="none"
+    stroke="#000"
+    stroke-width=".7033"
+  />
+  <path
+    d="m14.271 9.4933-3.4286-3.4274m0.0293 3.4286 3.4286-3.4286"
+    stroke="#000"
+    stroke-width=".7033"
+  />
+</svg>

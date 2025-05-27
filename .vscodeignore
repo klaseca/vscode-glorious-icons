@@ -1,0 +1,10 @@
+.vscode/**
+src/**
+.gitignore
+**/tsconfig.json
+**/*.map
+**/*.ts
+scripts/**
+package-lock.json
+.npmrc
+test-icons/**

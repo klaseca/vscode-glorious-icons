@@ -1,0 +1,78 @@
+<!--
+  Derived from vsc-material-theme-icons
+  Licensed under Apache License 2.0
+  http://www.apache.org/licenses/LICENSE-2.0
+-->
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <rect
+    x="2.09"
+    y="12.22"
+    width="6"
+    height="1.2"
+    transform="translate(7.09 -.83) rotate(30)"
+    fill="#ff9cac"
+  />
+  <rect
+    x="1.9"
+    y="3.08"
+    width="6"
+    height="1.2"
+    transform="translate(-1.18 2.94) rotate(-30)"
+    fill="#ff9cac"
+  />
+  <rect
+    x="7.55"
+    y="2.73"
+    width="6"
+    height="1.2"
+    transform="translate(18.02 11.49) rotate(-150)"
+    fill="#ff9cac"
+  />
+  <rect
+    x="7.44"
+    y="12.56"
+    width="6"
+    height="1.2"
+    transform="translate(26.07 19.33) rotate(150)"
+    fill="#ff9cac"
+  />
+  <rect
+    x="10.42"
+    y="7.8"
+    width="6"
+    height="1.2"
+    transform="translate(5.03 21.82) rotate(-90)"
+    fill="#ff9cac"
+  />
+  <rect
+    x="6.01"
+    y="6.17"
+    width="9.65"
+    height="1.2"
+    transform="translate(10.39 19.54) rotate(-120)"
+    fill="#ff9cac"
+  />
+  <rect
+    x=".69"
+    y="5.59"
+    width="9.65"
+    height="1.2"
+    transform="translate(-2.6 7.87) rotate(-60)"
+    fill="#ff9cac"
+  />
+  <rect
+    x="-.33"
+    y="7.8"
+    width="6"
+    height="1.2"
+    transform="translate(-5.73 11.06) rotate(-90)"
+    fill="#ff9cac"
+  />
+  <rect x="3.46" y="10.49" width="9.03" height="1.2" fill="#ff9cac" />
+  <circle cx="2.66" cy="4.86" r="1.67" fill="#ff9cac" />
+  <circle cx="8.01" cy="1.72" r="1.67" fill="#ff9cac" />
+  <circle cx="13.35" cy="4.85" r="1.67" fill="#ff9cac" />
+  <circle cx="13.34" cy="11.13" r="1.67" fill="#ff9cac" />
+  <circle cx="8.02" cy="14.27" r="1.67" fill="#ff9cac" />
+  <circle cx="2.66" cy="11.14" r="1.67" fill="#ff9cac" />
+</svg>

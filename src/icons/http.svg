@@ -1,0 +1,20 @@
+<!--
+  Derived from vsc-material-theme-icons
+  Licensed under Apache License 2.0
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Modified under GPLv3
+-->
+<svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M8,14.93c2.46-1.2,3.78-3.84,3.78-6.93s-1.32-5.73-3.78-6.93"
+    stroke="#60a5fa"
+  />
+  <path
+    d="M8,14.93c-2.46-1.2-3.78-3.84-3.78-6.93s1.32-5.73,3.78-6.93"
+    stroke="#60a5fa"
+  />
+  <polyline points="8 14.93 8 14.3 8 1.7 8 1.07" stroke="#60a5fa" />
+  <line x1="1.07" y1="8" x2="14.93" y2="8" stroke="#60a5fa" />
+  <circle cx="8" cy="8" r="6.93" stroke="#60a5fa" />
+</svg>

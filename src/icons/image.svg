@@ -1,0 +1,30 @@
+<!--
+  Derived from vsc-material-theme-icons
+  Licensed under Apache License 2.0
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Modified under GPLv3
+-->
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clippath">
+      <rect
+        x=".08"
+        y="1.66"
+        width="15.84"
+        height="12.67"
+        rx="2"
+        ry="2"
+        fill="none"
+      />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clippath)">
+    <rect x=".08" y="1.66" width="15.84" height="12.67" fill="#80cbc4" />
+    <path d="M12.51,8L3.25,15.92l13.54-.57.71-5.09-4.99-2.26Z" fill="#343944" />
+    <path
+      d="M4.7,8.26c1.09,0,1.98-.89,1.98-1.98s-.89-1.98-1.98-1.98-1.98.89-1.98,1.98.89,1.98,1.98,1.98Z"
+      fill="#fff"
+    />
+  </g>
+</svg>

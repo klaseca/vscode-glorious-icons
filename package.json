@@ -1,0 +1,54 @@
+{
+  "name": "vscode-glorious-icons",
+  "displayName": "Glorious Icons",
+  "description": "Icon pack for VSCode",
+  "publisher": "klaseca",
+  "version": "0.0.1",
+  "author": "Maxim Molochkov <klaseca@gmail.com> (https://github.com/klaseca)",
+  "license": "GPL-3.0-only",
+  "homepage": "https://github.com/klaseca/vscode-glorious-icons",
+  "icon": "./assets/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klaseca/vscode-glorious-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/klaseca/vscode-glorious-icons/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "theme",
+    "material",
+    "icon-theme"
+  ],
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "glorious-dark",
+        "label": "Glorious Dark",
+        "path": "./dist/dark/index.json"
+      }
+    ]
+  },
+  "type": "module",
+  "scripts": {
+    "prepare": "husky",
+    "format": "prettier -w .",
+    "build": "node --experimental-strip-types ./src/build.ts",
+    "package": "npx @vscode/vsce package"
+  },
+  "devDependencies": {
+    "@prettier/plugin-xml": "3.4.1",
+    "@types/node": "22.15.19",
+    "husky": "9.1.7",
+    "lint-staged": "16.1.2",
+    "prettier": "3.6.1",
+    "typescript": "5.8.3"
+  }
+}

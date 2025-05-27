@@ -1,0 +1,13 @@
+<!--
+  Derived from vsc-material-theme-icons
+  Licensed under Apache License 2.0
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Modified under GPLv3
+-->
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M8.99,11.09h-1.98v-3.09l-1.5,1.97-1.5-1.97v3.09h-1.98v-6.17h1.98l1.5,2.07,1.5-2.07h1.98v6.17ZM11.97,11.59l-2.47-3.59h1.5v-3.09h1.98v3.09h1.5l-2.51,3.59h0ZM14.83,2.87H1.17c-.31,0-.58.12-.8.35S.02,3.73.02,4.05v7.9c0,.33.11.61.34.84s.5.34.8.34h13.67c.31,0,.58-.11.8-.34.23-.23.34-.51.34-.84v-7.9c0-.32-.11-.59-.34-.83-.23-.23-.5-.35-.8-.35Z"
+    fill="#f78c6c"
+  />
+</svg>

@@ -1,0 +1,17 @@
+<!--
+  Derived from vsc-material-theme-icons
+  Licensed under Apache License 2.0
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Modified under GPLv3
+-->
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M 7.999982,5.8145566 5.682204,2.166656 H 2.1393171 L 7.999982,11.908349 13.865267,2.166656 H 10.31776 Z"
+    fill="#34495e"
+  />
+  <path
+    d="M 7.999982,13.833344 14.999964,2.166656 H 12.66659 L 7.999982,9.7499605 3.333332,2.166656 H 1 Z"
+    fill="#2ecc71"
+  />
+</svg>

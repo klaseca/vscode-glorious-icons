@@ -1,0 +1,11 @@
+{
+  "plugins": ["@prettier/plugin-xml"],
+  "xmlWhitespaceSensitivity": "preserve",
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": "**/*.{ts,tsx}",
+      "options": { "parser": "typescript" }
+    }
+  ]
+}
