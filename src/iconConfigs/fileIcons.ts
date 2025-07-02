@@ -91,6 +91,11 @@ export const fileIcons: Array<FileIconsConfig> = [
     ],
   },
   {
+    icon: 'deno',
+    fileNames: ['deno.json', 'deno.jsonc'],
+  },
+  { icon: 'deno-lock', fileNames: ['deno.lock'] },
+  {
     icon: 'docker',
     fileNames: [
       'dockerfile',
