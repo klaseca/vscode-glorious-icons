@@ -290,6 +290,7 @@ export const fileIcons: Array<FileIconsConfig> = [
   { icon: 'nuxt', fileNames: ['nuxt.config.js'] },
   { icon: 'ocaml', fileExtensions: ['ml', 'mli', 'mly', 'mll'] },
   { icon: 'odin', fileExtensions: ['odin'] },
+  { icon: 'oxc', fileNames: ['.oxlintrc.json'] },
   { icon: 'package-lock', fileNames: ['package-lock.json'] },
   { icon: 'pdf', fileExtensions: ['pdf'] },
   { icon: 'pipfile-lock', fileNames: ['pipefile.lock'] },
