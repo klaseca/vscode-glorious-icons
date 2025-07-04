@@ -52,7 +52,8 @@ export const fileIcons: Array<FileIconsConfig> = [
   { icon: 'bun', fileNames: ['bunfig.toml', '.bunfig.toml'] },
   { icon: 'bun-lock', fileNames: ['bun.lock'] },
   { icon: 'cabal', fileExtensions: ['cabal'] },
-  { icon: 'cargo', fileNames: ['cargo.lock'] },
+  { icon: 'cargo', fileNames: ['cargo.toml'] },
+  { icon: 'cargo-lock', fileNames: ['cargo.lock'] },
   { icon: 'certificate', fileExtensions: ['cer', 'cert', 'crt'] },
   {
     icon: 'changelog',
