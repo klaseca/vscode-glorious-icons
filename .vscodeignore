@@ -7,4 +7,7 @@ src/**
 scripts/**
 package-lock.json
 .npmrc
+.prettierignore
+.lintstagedrc.json
+.husky/**
 test-icons/**
