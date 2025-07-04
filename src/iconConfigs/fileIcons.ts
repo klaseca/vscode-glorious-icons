@@ -166,6 +166,7 @@ export const fileIcons: Array<FileIconsConfig> = [
     ],
   },
   { icon: 'gitlab', fileNames: ['.gitlab-ci.yml'] },
+  { icon: 'gleam', fileExtensions: ['gleam'] },
   { icon: 'go-mod', fileNames: ['go.mod'] },
   { icon: 'go-sum', fileNames: ['go.sum'] },
   {
