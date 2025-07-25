@@ -307,6 +307,8 @@ export const fileIcons: Array<FileIconsConfig> = [
       'playwright.config.cjs',
     ],
   },
+  { icon: 'pnpm', fileNames: ['pnpm-workspace.yaml', '.pnpmfile.cjs'] },
+  { icon: 'pnpm-lock', fileNames: ['pnpm-lock.yaml'] },
   {
     icon: 'postcss',
     fileNames: [
