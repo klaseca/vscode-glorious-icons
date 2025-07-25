@@ -368,6 +368,50 @@ export const fileIcons: Array<FileIconsConfig> = [
       'rollup.config.ts',
     ],
   },
+  {
+    icon: 'rsbuild',
+    fileNames: [
+      'rsbuild.config.js',
+      'rsbuild.config.ts',
+      'rsbuild.config.mjs',
+      'rsbuild.config.mts',
+      'rsbuild.config.cjs',
+      'rsbuild.config.cts',
+    ],
+  },
+  {
+    icon: 'rslib',
+    fileNames: [
+      'rslib.config.js',
+      'rslib.config.ts',
+      'rslib.config.mjs',
+      'rslib.config.mts',
+      'rslib.config.cjs',
+      'rslib.config.cts',
+    ],
+  },
+  {
+    icon: 'rspack',
+    fileNames: [
+      'rspack.config.js',
+      'rspack.config.ts',
+      'rspack.config.mjs',
+      'rspack.config.mts',
+      'rspack.config.cjs',
+      'rspack.config.cts',
+    ],
+  },
+  {
+    icon: 'rstest',
+    fileNames: [
+      'rstest.config.js',
+      'rstest.config.ts',
+      'rstest.config.mjs',
+      'rstest.config.mts',
+      'rstest.config.cjs',
+      'rstest.config.cts',
+    ],
+  },
   { icon: 'http', fileExtensions: ['rest'] },
   { icon: 'scala', fileExtensions: ['scala'] },
   {
