@@ -360,6 +360,17 @@ export const fileIcons: Array<FileIconsConfig> = [
   { icon: 'readme', fileNames: ['readme', 'readme.txt', 'readme.md'] },
   { icon: 'reason', fileExtensions: ['re', 'rei'] },
   {
+    icon: 'rolldown',
+    fileNames: [
+      'rolldown.config.js',
+      'rolldown.config.ts',
+      'rolldown.config.mjs',
+      'rolldown.config.mts',
+      'rolldown.config.cjs',
+      'rolldown.config.cts',
+    ],
+  },
+  {
     icon: 'rollup',
     fileNames: [
       'rollup.config.mjs',
