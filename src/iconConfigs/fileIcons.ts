@@ -497,6 +497,19 @@ export const fileIcons: Array<FileIconsConfig> = [
   },
   { icon: 'tex', fileExtensions: ['tex', 'sty', 'cls'] },
   {
+    icon: 'tsdown',
+    fileNames: [
+      'tsdown.config.ts',
+      'tsdown.config.mts',
+      'tsdown.config.cts',
+      'tsdown.config.js',
+      'tsdown.config.mjs',
+      'tsdown.config.cjs',
+      'tsdown.config.json',
+      'tsdown.config',
+    ],
+  },
+  {
     icon: 'tune',
     fileNames: [
       '.env',
