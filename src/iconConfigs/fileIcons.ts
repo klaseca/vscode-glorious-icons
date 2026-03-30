@@ -343,8 +343,21 @@ export const fileIcons: Array<FileIconsConfig> = [
     fileNames: getMultiExtensionsFiles('rslib.config', JS_EXTENSIONS),
   },
   {
+    icon: 'rslint',
+    fileNames: getMultiExtensionsFiles('rslint.config', [
+      '.js',
+      '.mjs',
+      '.ts',
+      '.mts',
+    ]),
+  },
+  {
     icon: 'rspack',
     fileNames: getMultiExtensionsFiles('rspack.config', JS_EXTENSIONS),
+  },
+  {
+    icon: 'rspress',
+    fileNames: getMultiExtensionsFiles('rspress.config', JS_EXTENSIONS),
   },
   {
     icon: 'rstest',
