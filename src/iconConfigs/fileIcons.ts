@@ -19,6 +19,8 @@ export const fileIcons: Array<FileIconsConfig> = [
   { icon: 'arduino', fileExtensions: ['ino'] },
   { icon: 'assembly', fileExtensions: ['a51', 'asm', 'inc', 'nasm', 's'] },
   { icon: 'astro', fileExtensions: ['astro'] },
+  { icon: 'aube', fileNames: ['aube-workspace.yaml'] },
+  { icon: 'aube-lock', fileNames: ['aube-lock.yaml'] },
   {
     icon: 'audio',
     fileExtensions: ['aiff', 'flac', 'm4a', 'mp3', 'wma', 'wav'],
