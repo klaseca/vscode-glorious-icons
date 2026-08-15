@@ -213,6 +213,19 @@ export const fileIcons: Array<FileIconsConfig> = [
   { icon: 'jupyter', fileExtensions: ['ipynb'] },
   { icon: 'key', fileExtensions: ['asc', 'key', 'pem', 'pub'] },
   { icon: 'kivy', fileExtensions: ['kv'] },
+  {
+    icon: 'knip',
+    fileNames: [
+      'knip.json',
+      'knip.jsonc',
+      '.knip.json',
+      '.knip.jsonc',
+      'knip.ts',
+      'knip.js',
+      'knip.config.ts',
+      'knip.config.js',
+    ],
+  },
   { icon: 'kotlin', fileExtensions: ['kt', 'kts'] },
   { icon: 'lib', fileExtensions: ['lib'] },
   {
