@@ -494,7 +494,7 @@ export const fileIcons: Array<FileIconsConfig> = [
     fileNames: getMultiExtensionsFiles('vitest.config', JS_EXTENSIONS),
   },
   { icon: 'vlang', fileExtensions: ['v', 'vsh'] },
-  { icon: 'vscode', fileNames: ['.vscodeignore'] },
+  { icon: 'vscode', fileNames: ['.vscodeignore'], fileExtensions: ['vsix'] },
   { icon: 'vue', fileNames: ['vue.config.js'] },
   {
     icon: 'webpack',
