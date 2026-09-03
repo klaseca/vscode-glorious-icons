@@ -94,13 +94,9 @@ export const fileIcons: Array<FileIconsConfig> = [
   { icon: 'deno-lock', fileNames: ['deno.lock'] },
   {
     icon: 'docker',
-    fileNames: [
-      'dockerfile',
-      'containerfile',
-      'docker-compose.yml',
-      'compose.yaml',
-    ],
+    fileNames: ['dockerfile', 'containerfile'],
   },
+  { icon: 'docker-ignore', fileNames: ['.dockerignore', '.containerignore'] },
   { icon: 'elixir', fileExtensions: ['ex', 'eex', 'exs'] },
   { icon: 'elixir-lock', fileNames: ['mix.lock'] },
   { icon: 'elm', fileExtensions: ['elm'] },
