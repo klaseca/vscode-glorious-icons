@@ -240,6 +240,12 @@ export const fileIcons: Array<FileIconsConfig> = [
   { icon: 'markojs', fileExtensions: ['marko'] },
   { icon: 'matlab', fileExtensions: ['matlab'] },
   { icon: 'mdx', fileExtensions: ['mdx'] },
+  { icon: 'moonbit', fileExtensions: ['mbt'] },
+  { icon: 'moonbit-x', fileExtensions: ['mbtx'] },
+  { icon: 'moonbit-mod', fileNames: ['moon.mod'] },
+  { icon: 'moonbit-pkg', fileNames: ['moon.pkg'] },
+  { icon: 'moonbit-i', fileExtensions: ['mbti'] },
+  { icon: 'moonbit-ignore', fileNames: ['.moonignore'] },
   {
     icon: 'movie',
     fileExtensions: [
