@@ -51,12 +51,14 @@
     "prepare": "husky",
     "format": "prettier -w .",
     "build": "node ./src/build.ts",
-    "package": "vsce package"
+    "package": "vsce package",
+    "release": "bumpp"
   },
   "devDependencies": {
     "@prettier/plugin-xml": "3.4.1",
     "@types/node": "22.15.19",
     "@vscode/vsce": "4.0.0",
+    "bumpp": "12.3.0",
     "husky": "9.1.7",
     "lint-staged": "16.1.2",
     "prettier": "3.6.1",
