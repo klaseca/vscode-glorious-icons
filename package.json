@@ -37,10 +37,20 @@
     ]
   },
   "type": "module",
+  "devEngines": {
+    "runtime": {
+      "name": "node",
+      "version": ">=24.11.0"
+    },
+    "packageManager": {
+      "name": "npm",
+      "version": ">=11"
+    }
+  },
   "scripts": {
     "prepare": "husky",
     "format": "prettier -w .",
-    "build": "node --experimental-strip-types ./src/build.ts",
+    "build": "node ./src/build.ts",
     "package": "vsce package"
   },
   "devDependencies": {
