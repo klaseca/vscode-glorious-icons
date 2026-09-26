@@ -5,7 +5,7 @@
   "publisher": "klaseca",
   "version": "0.0.5",
   "author": "Maxim Molochkov <klaseca@gmail.com> (https://github.com/klaseca)",
-  "license": "GPL-3.0-only",
+  "license": "Apache-2.0",
   "homepage": "https://github.com/klaseca/vscode-glorious-icons",
   "icon": "./assets/logo.png",
   "repository": {
