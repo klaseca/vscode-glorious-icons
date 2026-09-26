@@ -52,6 +52,7 @@
     "format": "prettier -w .",
     "typecheck": "tsc --noEmit",
     "build": "node ./src/build.ts",
+    "vscode:prepublish": "npm run build",
     "package": "vsce package",
     "release": "bumpp"
   },
