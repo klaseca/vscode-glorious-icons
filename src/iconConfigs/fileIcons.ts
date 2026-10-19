@@ -246,6 +246,7 @@ export const fileIcons: Array<FileIconsConfig> = [
   { icon: 'moonbit-pkg', fileNames: ['moon.pkg'] },
   { icon: 'moonbit-i', fileExtensions: ['mbti'] },
   { icon: 'moonbit-ignore', fileNames: ['.moonignore'] },
+  { icon: 'moonbit-work', fileNames: ['moon.work'] },
   {
     icon: 'movie',
     fileExtensions: [
